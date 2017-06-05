@@ -1,5 +1,6 @@
-{"version_code":452299,"content":"
+{"version_code":451192,"content":"
 <p>تحديث 5.60</p>
+
 <li>تحديث واتس اب العبقري العماني</li>
 <li>ABWhatsapp</li>
 <li>النسخه باللون الأزرق</li>
