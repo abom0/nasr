@@ -1,5 +1,5 @@
-{"version_code":451192,"content":"
-<p>تحديث 5.60</p>
+{"version_code":451195,"content":"
+<p>تحديث 5.90</p>
 
 <li>تحديث واتس اب العبقري العماني</li>
 <li>ABWhatsapp</li>
@@ -19,5 +19,5 @@
 <li>إصلاح عدم فتح سجل whatsapp.log</li>
 <li>إصلاح عدم ظهور النمط عند اخفاء محادثة في بعض الاجهزة</li>
 <li>إصلاحات اخرى</li>
-","url":"http://www.abom00.tk/p/abwhatsapp2_6.html"
+","url":"http://www.abom00.tk/p/abwhatsapp1.html"
 }
